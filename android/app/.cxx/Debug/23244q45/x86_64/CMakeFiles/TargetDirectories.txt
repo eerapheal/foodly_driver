@@ -1,0 +1,2 @@
+/Users/ahmeddastagir/Documents/udemy courses/flutter_multi_vendor_app/code_v3/foodly_driver/android/app/.cxx/Debug/23244q45/x86_64/CMakeFiles/edit_cache.dir
+/Users/ahmeddastagir/Documents/udemy courses/flutter_multi_vendor_app/code_v3/foodly_driver/android/app/.cxx/Debug/23244q45/x86_64/CMakeFiles/rebuild_cache.dir

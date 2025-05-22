@@ -1,0 +1,227 @@
+{
+  "project_info": {
+    "project_number": "478084903744",
+    "firebase_url": "https://flutter-foodly-final-7d6ce-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flutter-foodly-final-7d6ce",
+    "storage_bucket": "flutter-foodly-final-7d6ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478084903744:android:13a390a87d389fc1c100a5",
+        "android_client_info": {
+          "package_name": "com.dbestech.fashion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478084903744-g4slh71osg7ik5hr1duduesi69mbe1r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1RaMCtPQc1jSue6vVkjrj6DN9llrHPiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478084903744-g4slh71osg7ik5hr1duduesi69mbe1r0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478084903744-0sk179pi76rlt5phtfdhbtlvu7d4r1pj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodlyFlutterDelivery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478084903744:android:b43047ec31909138c100a5",
+        "android_client_info": {
+          "package_name": "com.dbestech.foodly_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478084903744-g4slh71osg7ik5hr1duduesi69mbe1r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1RaMCtPQc1jSue6vVkjrj6DN9llrHPiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478084903744-g4slh71osg7ik5hr1duduesi69mbe1r0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478084903744-0sk179pi76rlt5phtfdhbtlvu7d4r1pj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodlyFlutterDelivery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478084903744:android:8c51088fabd82856c100a5",
+        "android_client_info": {
+          "package_name": "com.dbestech.foodly_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478084903744-g4slh71osg7ik5hr1duduesi69mbe1r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1RaMCtPQc1jSue6vVkjrj6DN9llrHPiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478084903744-g4slh71osg7ik5hr1duduesi69mbe1r0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478084903744-0sk179pi76rlt5phtfdhbtlvu7d4r1pj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodlyFlutterDelivery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478084903744:android:25de94d6f4cff112c100a5",
+        "android_client_info": {
+          "package_name": "com.dbestech.foodly_restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478084903744-g4slh71osg7ik5hr1duduesi69mbe1r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1RaMCtPQc1jSue6vVkjrj6DN9llrHPiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478084903744-g4slh71osg7ik5hr1duduesi69mbe1r0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478084903744-0sk179pi76rlt5phtfdhbtlvu7d4r1pj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodlyFlutterDelivery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478084903744:android:d333e94ac9a52a1cc100a5",
+        "android_client_info": {
+          "package_name": "com.dbestech.foodly_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478084903744-g4slh71osg7ik5hr1duduesi69mbe1r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1RaMCtPQc1jSue6vVkjrj6DN9llrHPiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478084903744-g4slh71osg7ik5hr1duduesi69mbe1r0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478084903744-0sk179pi76rlt5phtfdhbtlvu7d4r1pj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodlyFlutterDelivery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478084903744:android:7c989f01f1f7e786c100a5",
+        "android_client_info": {
+          "package_name": "com.example.foodly_flutter_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478084903744-g4slh71osg7ik5hr1duduesi69mbe1r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1RaMCtPQc1jSue6vVkjrj6DN9llrHPiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478084903744-g4slh71osg7ik5hr1duduesi69mbe1r0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478084903744-0sk179pi76rlt5phtfdhbtlvu7d4r1pj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodlyFlutterDelivery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
